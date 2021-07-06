@@ -1,0 +1,25 @@
+{
+  "version": "v1",
+  "packages": {
+    "@pxp-ui/core": {
+      "signature": "f7efa0b43967b6891bc0b49130b0ba47",
+      "file": true
+    },
+    "@pxp-ui/components": {
+      "signature": "614faa14dea3e26e466fc650d20641c1",
+      "file": true
+    },
+    "@pxp-ui/hooks": {
+      "signature": "e06bcba45bc235e81227d0ce7f3b22b0",
+      "file": true
+    },
+    "@pxp-ui/themes": {
+      "signature": "59cf3fb40403a0fb71b77071c224af90",
+      "file": true
+    },
+    "@pxp-ui/common": {
+      "signature": "a043f853bc67a60d3ac77841223bb108",
+      "file": true
+    }
+  }
+}
