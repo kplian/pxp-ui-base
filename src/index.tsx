@@ -13,10 +13,7 @@ let hasRendered = false;
 const renderApp = () => {
   if (!hasRendered) {
     hasRendered = true;
-    ReactDOM.render(
-      <PxpUiApp i18n={i18n} />,
-      document.getElementById('root'),
-    );
+    ReactDOM.render(<PxpUiApp i18n={i18n} />, document.getElementById('root'));
   }
 };
 
