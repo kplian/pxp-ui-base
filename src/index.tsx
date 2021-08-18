@@ -22,7 +22,7 @@ const renderApp = () => {
 };
 
 // Example static menu, delete menu when used pxp-nd menu
-// Check https://fonts.google.com/icons for more icons 
+// Check https://fonts.google.com/icons for more icons
 const menu: any = [
   {
     icon: 'account_circle',
@@ -39,7 +39,6 @@ const menu: any = [
     component: 'APP_DEMO',
   },
 ];
-
 
 ReactDOM.render(<LoadingScreen />, document.getElementById('root'));
 // Example static menu, delete params menu when used pxp-nd menu
