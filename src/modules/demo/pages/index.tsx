@@ -3,11 +3,11 @@ import { lazy } from 'react';
 const pages: any = {
   APP_MAIN: {
     path: '/main',
-    component: lazy(() => import('./demo/Demo')),
+    component: lazy(() => import('./examples/Demo')),
   },
   APP_DEMO: {
     path: '/cart',
-    component: lazy(() => import('./demo/Demo2')),
+    component: lazy(() => import('./examples/Demo2')),
   },
 };
 

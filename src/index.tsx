@@ -4,7 +4,7 @@ import { PxpUiApp, configurePxpClient, Pxp, initI18n } from '@pxp-ui/core';
 import LoadingScreen from '@pxp-ui/components/LoadingScreen';
 import './index.scss';
 import configFile from './config';
-import pages from './pages';
+import { pages } from './modules';
 
 const config: any = configFile;
 Pxp.setConfig(config);
