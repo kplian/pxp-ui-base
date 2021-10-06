@@ -4,7 +4,7 @@ const Demo2 = () => {
   return (
     <div>
       <h1>
-        Shopping Cart!<sub>Delete this page</sub>
+        Shopping Cart!<sub>Demo page</sub>
       </h1>
     </div>
   );

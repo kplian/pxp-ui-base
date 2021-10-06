@@ -4,7 +4,7 @@ const Demo = () => {
   return (
     <div>
       <h1>
-        Hello World!<sub>Delete this page</sub>
+        Hello World!<sub>Demo page</sub>
       </h1>
     </div>
   );
